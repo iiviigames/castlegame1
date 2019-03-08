@@ -1,4 +1,7 @@
 ---
 main: main.lua
 title: iiviiGame!
-
+owner: iivii
+coverImage: https://pixelpioneers.org/raven.png
+primaryColor: FFA500
+description: A test of Castle
